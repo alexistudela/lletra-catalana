@@ -30,4 +30,4 @@ Copyright 2026 The Lletra Catalana Project Authors (vegeu AUTHORS.txt).
 Aquesta família es distribueix sota la **SIL Open Font License, versió 1.1** (vegeu OFL.txt). Es pot fer servir lliurement, també en usos comercials, i se'n poden fer modificacions i obres derivades, sempre que les fonts no es venguin soles i que les versions modificades es publiquin amb la mateixa llicència.
 
 ## Instal·lació
-Descarrega els fitxers de la carpeta `fonts/otf` i obre'ls amb doble clic per instal·lar-los.
+Descarrega els fitxers de la carpeta `fonts/ttf` (recomanat a Windows) o `fonts/otf`, fes-hi clic amb el botó dret i tria «Instal·la».
