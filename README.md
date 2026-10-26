@@ -1,4 +1,4 @@
-# Lletra Catalana · versió 0.2
+# Lletra Catalana · versió 0.5
 
 ![Mostra de la família](documentation/mostra.png)
 
@@ -7,7 +7,7 @@ Família tipogràfica basada en la lletra gòtica rotunda dels impresos catalans
 ## Estils
 - **Històrica** — reconstrucció del tipus 112 G de Joan Rosembach (*Libre de les dones*, Barcelona 1495), completada amb el Gòtic Incunable de Canibell (1904). Aplica automàticament la s llarga, la r rotunda i les lligadures ſt i ſſ.
 - **Sòbria** — les mateixes formes sense substitucions automàtiques, amb C, T i i simplificades.
-- **Moderna** — evolució geomètrica de la rotunda, amb els trets catalans exagerats.
+- **Moderna** — els esquelets de la Manuscrita escrits amb ploma de punta ampla, amb els trets catalans de la rotunda.
 - **Manuscrita** — la rotunda escrita a mà amb traç simple, amb tres variants de cada minúscula que s'alternen.
 
 ## Funcions OpenType
@@ -30,4 +30,7 @@ Copyright 2026 The Lletra Catalana Project Authors (vegeu AUTHORS.txt).
 Aquesta família es distribueix sota la **SIL Open Font License, versió 1.1** (vegeu OFL.txt). Es pot fer servir lliurement, també en usos comercials, i se'n poden fer modificacions i obres derivades, sempre que les fonts no es venguin soles i que les versions modificades es publiquin amb la mateixa llicència.
 
 ## Instal·lació
-Descarrega els fitxers de la carpeta `fonts/ttf` (recomanat a Windows) o `fonts/otf`, fes-hi clic amb el botó dret i tria «Instal·la».
+A Windows, fes servir preferentment els fitxers `.ttf`: clic amb el botó dret i «Instal·la». Els `.otf` funcionen igual a macOS i Linux.
+
+## Edició
+Les fonts editables són a `sources/` en format UFO (per exemple, amb Fontra o FontForge).
